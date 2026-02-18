@@ -1,0 +1,32 @@
+body{
+    background-color:#e3f5f9 ;
+}
+h1{
+
+    color: #AA2016;
+    background-color:#CBBCBD ;
+    font-size: 100px;
+    
+}
+.img1{
+    width:500px;
+    height: 300px;
+  
+}
+.img2{
+    width: 250px;
+    height: 150px;
+
+}
+.img3{
+    width: 250px;
+    height: 150px;
+}
+p{
+    color:#2c3e50;
+}
+.Para2{
+    color: #2c3e50;
+    text-align: right;
+}
+ 
