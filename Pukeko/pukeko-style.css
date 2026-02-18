@@ -1,0 +1,29 @@
+h1 {
+    font-size: 50px;
+    color:darkred
+    }
+
+    body {
+        background-color: rgb(156, 169, 233);
+         }
+ 
+li { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    }
+
+.box { 
+    width: 750px;
+    height: 350px;
+    background-color: hsl(248, 57%, 29%);
+    border: 15px solid  hsl(248, 57%, 29%);
+    margin: 8px;
+    }
+    
+.box2 { 
+    width: 700px;
+    height: 200px;
+    background-color: aliceblue;
+    border: 5px solid aliceblue;
+    margin: 20px;
+  }
