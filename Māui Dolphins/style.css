@@ -1,0 +1,65 @@
+h1 {
+    font-family: Title;
+}
+
+h3 {
+    font-family: Title;
+}
+
+li {
+    font-family: Body;
+}
+
+p {
+    font-family: Body;
+}
+
+.box {
+    width: 100;
+    height: 100%;
+    padding: 10px;
+    border: 2px  solid black;
+    background-color: rgb(194, 227, 255);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.no_underline {
+    text-decoration: none;
+}
+
+.no_underline:hover {
+    text-decoration: underline;
+    color: rgb(0, 169, 152);
+}
+
+a {
+    font-family: Title;
+    color: black;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.caption {
+    font-size: 12px;
+    font-style: italic;
+}
+
+@font-face {
+  font-family: Title;
+  src: url(lemon_milk2/LEMONMILK-Medium.otf);
+}
+
+@font-face {
+  font-family: Body;
+  src: url(unageo2/ttf/Unageo-Medium.ttf);
+}
