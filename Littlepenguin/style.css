@@ -1,0 +1,37 @@
+.circle-pic {
+  width: 300px; 
+  border: 10px solid rgb(202, 38, 38);
+  height: 300px;
+  border-radius: 52%;
+  object-fit: cover; 
+  }
+
+   h1{
+    font-family:fantasy;
+    font-weight:lighter;
+    text-decoration-line:underline;
+    text-decoration-color:purple;
+    }
+
+    h3{
+    font: weight 1000px;;
+    font-size:22px;
+    }
+  
+p{ 
+    color: #1b0207;
+     font: weight 9px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+     
+   li{ 
+    color:#1b0207;
+    font-family: "cursive", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font: size px 3px;
+    font: weight 4px;
+}
+h2{ 
+    font: weight 500px;
+    }
+    
