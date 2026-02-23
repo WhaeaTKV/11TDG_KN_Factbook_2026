@@ -32,3 +32,9 @@ ul{
 body {
     background-color:rgb(174, 196, 252) ;
 }
+p{ 
+    color: #1b0207;
+     font: weight 9px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
