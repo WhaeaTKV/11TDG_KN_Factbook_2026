@@ -34,4 +34,28 @@ p{
 h2{ 
     font: weight 500px;
     }
-    
+    .navbar ul{
+      list-style-type: none;
+      padding: 0px;
+      margin: 0px;
+      overflow: hidden;
+      background-color: #6bc9f5;
+}
+
+.navbar a{
+  color: #1b0207;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+  
+}
+.navbar a:hover{
+  background-color: #19aaee;
+}
+.navbar li{
+  float: left;
+  }
+  .navbar {
+    border: 3px solid #0b4af8;
+}
