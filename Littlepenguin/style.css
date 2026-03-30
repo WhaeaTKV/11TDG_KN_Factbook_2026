@@ -59,3 +59,9 @@ h2{
   .navbar {
     border: 3px solid #0b4af8;
 }
+h4{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:12px;
+  font-weight: 4px;
+
+  }
